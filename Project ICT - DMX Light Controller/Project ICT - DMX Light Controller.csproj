@@ -115,5 +115,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Gobo 1.PNG" />
+    <Resource Include="Images\Gobo 2.PNG" />
+    <Resource Include="Images\Gobo 3.PNG" />
+    <Resource Include="Images\Gobo 4.PNG" />
+    <Resource Include="Images\Gobo 5.PNG" />
+    <Resource Include="Images\Gobo 6.PNG" />
+    <Resource Include="Images\Gobo 7.PNG" />
+    <Resource Include="Images\Gobo 8.PNG" />
+    <Resource Include="Images\Gobo 9.PNG" />
+    <Resource Include="Images\Gobo Open.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

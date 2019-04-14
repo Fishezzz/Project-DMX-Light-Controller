@@ -97,34 +97,34 @@
 
         <ListBox Name="lbChannel13" HorizontalAlignment="Left" Height="134" Margin="546,470,0,0" VerticalAlignment="Top" Width="114" IsEnabled="False">
             <RadioButton Name="rbC13_1" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo Open.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo Open.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_2" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 1.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 1.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_3" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 2.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 2.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_4" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 3.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 3.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_5" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 4.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 4.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_6" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 5.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 5.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_7" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 6.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 6.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_8" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 7.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 7.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_9" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 8.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 8.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_10" VerticalContentAlignment="Center" Checked="rb_Checked">
-                <Image Source="C:\Users\emiel\School\ICT\Project ICT - DMX Light Controller\Project ICT - DMX Light Controller\Gobo 9.png" Height="40" Width="50"/>
+                <Image Source="Images\Gobo 9.png" Height="40" Width="50"/>
             </RadioButton>
             <RadioButton Name="rbC13_11" Content="" VerticalContentAlignment="Center" Checked="rb_Checked"/>
             <RadioButton Name="rbC13_12" Content="" VerticalContentAlignment="Center" Checked="rb_Checked"/>
